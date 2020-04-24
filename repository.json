@@ -1,0 +1,12 @@
+{
+  "author": "Miles Budnek",
+  "gitHubUrl": "https://github.com/mbudnek",
+  "packages": [
+    {
+      "name": "Fan Thermostat",
+      "category": "Control",
+      "location": "https://raw.githubusercontent.com/mbudnek/hubitat-fan-thermostat/master/packageManifest.json",
+      "description": "This package allows you to create virtual thermostat devices to control ceiling fans based on temperature"
+    }
+  ]
+}
