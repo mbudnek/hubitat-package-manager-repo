@@ -7,6 +7,12 @@
       "category": "Control",
       "location": "https://raw.githubusercontent.com/mbudnek/hubitat-fan-thermostat/master/packageManifest.json",
       "description": "This package allows you to create virtual thermostat devices to control ceiling fans based on temperature"
+    },
+    {
+      "name": "Google Home Community",
+      "category": "Integrations",
+      "location": "https://raw.githubusercontent.com/mbudnek/google-home-hubitat-community/master/packageManifest.json",
+      "description": "A community-maintained, full-featured, and highly configurable integration between Hubitat Elevation and Google Home."
     }
   ]
 }
